@@ -109,7 +109,7 @@ seasonal-agriculture-analysis/
 ### Option 2: Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/seasonal-agriculture-analysis.git
+git clone https://github.com/Mr-Authentic/seasonal-agriculture-analysis
 cd seasonal-agriculture-analysis
 
 # Install required libraries
