@@ -6,7 +6,7 @@
 |-------|---------|
 | **Student** | Arghya Khamaru |
 | **Program** | VOIS AICTE Batch1 2026–2027 |
-| **AICTE STU ID** | *[Fill from your offer letter]* |
+| **AICTE STU ID** | STU6a53a0adb2ea31783865517 |
 | **Course Completed** | Data Visualization — ID: VFLMS26_162540 |
 
 ---
